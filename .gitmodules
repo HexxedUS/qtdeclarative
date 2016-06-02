@@ -1,4 +1,4 @@
 [submodule "tests/manual/v4/test262"]
 	path = tests/manual/v4/test262
-	url = ../qtdeclarative-testsuites.git
+	url = git://code.qt.io/qt/qtdeclarative-testsuites.git
 	update = none
